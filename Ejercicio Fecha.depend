@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1681319429 source:c:\users\gonzalo\desktop\juego laboratorio - card jitsu ++\ejercicio fecha\main.cpp
+	<iostream>
+	"Fecha.h"
+
+1681315972 c:\users\gonzalo\desktop\juego laboratorio - card jitsu ++\ejercicio fecha\fecha.h
+
+1681319310 source:c:\users\gonzalo\desktop\juego laboratorio - card jitsu ++\ejercicio fecha\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1681344191 source:c:\users\gonzalo\desktop\utn\laboratorio 2\poo\ejercicio fecha\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1681341375 c:\users\gonzalo\desktop\utn\laboratorio 2\poo\ejercicio fecha\fecha.h
+	<iostream>
+
+1681343391 source:c:\users\gonzalo\desktop\utn\laboratorio 2\poo\ejercicio fecha\main.cpp
+	<iostream>
+	"Fecha.h"
+
